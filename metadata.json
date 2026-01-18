@@ -1,0 +1,5 @@
+{
+  "name": "Vitality Calorie Tracker",
+  "description": "A sophisticated, user-friendly calorie counting application to help you manage nutrition goals with precision and style. Features include smart BMR calculation, meal logging, and progress visualization.",
+  "requestFramePermissions": []
+}
